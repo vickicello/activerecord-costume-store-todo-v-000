@@ -1,3 +1,3 @@
-class CreateCostumeStores < ActiveRecord::Migration
+class CreateCostumeStores < ActiveRecord::Migration[5.1]
 
 end
